@@ -1,3 +1,0 @@
-/Users/miring49/CLionProjects/baekjoon-level-solve/cmake-build-debug/CMakeFiles/9_task1.dir
-/Users/miring49/CLionProjects/baekjoon-level-solve/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/miring49/CLionProjects/baekjoon-level-solve/cmake-build-debug/CMakeFiles/rebuild_cache.dir
