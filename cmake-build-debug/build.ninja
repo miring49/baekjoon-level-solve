@@ -41,71 +41,35 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = /Users/miring49/CLionProjects/baekjoon-level-solve/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target baekjoon_level_solve
+# Object build statements for EXECUTABLE target 9_task1
 
 
 #############################################
-# Order-only phony target for baekjoon_level_solve
+# Order-only phony target for 9_task1
 
-build cmake_object_order_depends_target_baekjoon_level_solve: phony || CMakeFiles/baekjoon_level_solve.dir
+build cmake_object_order_depends_target_9_task1: phony || CMakeFiles/9_task1.dir
 
-build CMakeFiles/baekjoon_level_solve.dir/9/task1.cpp.o: CXX_COMPILER__baekjoon_level_solve_unscanned_Debug /Users/miring49/CLionProjects/baekjoon-level-solve/9/task1.cpp || cmake_object_order_depends_target_baekjoon_level_solve
-  DEP_FILE = CMakeFiles/baekjoon_level_solve.dir/9/task1.cpp.o.d
+build CMakeFiles/9_task1.dir/9/task1.cpp.o: CXX_COMPILER__9_task1_unscanned_Debug /Users/miring49/CLionProjects/baekjoon-level-solve/9/task1.cpp || cmake_object_order_depends_target_9_task1
+  DEP_FILE = CMakeFiles/9_task1.dir/9/task1.cpp.o.d
   FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/baekjoon_level_solve.dir
-  OBJECT_FILE_DIR = CMakeFiles/baekjoon_level_solve.dir/9
-
-build CMakeFiles/baekjoon_level_solve.dir/9/task2.cpp.o: CXX_COMPILER__baekjoon_level_solve_unscanned_Debug /Users/miring49/CLionProjects/baekjoon-level-solve/9/task2.cpp || cmake_object_order_depends_target_baekjoon_level_solve
-  DEP_FILE = CMakeFiles/baekjoon_level_solve.dir/9/task2.cpp.o.d
-  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/baekjoon_level_solve.dir
-  OBJECT_FILE_DIR = CMakeFiles/baekjoon_level_solve.dir/9
-
-build CMakeFiles/baekjoon_level_solve.dir/9/task3.cpp.o: CXX_COMPILER__baekjoon_level_solve_unscanned_Debug /Users/miring49/CLionProjects/baekjoon-level-solve/9/task3.cpp || cmake_object_order_depends_target_baekjoon_level_solve
-  DEP_FILE = CMakeFiles/baekjoon_level_solve.dir/9/task3.cpp.o.d
-  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/baekjoon_level_solve.dir
-  OBJECT_FILE_DIR = CMakeFiles/baekjoon_level_solve.dir/9
-
-build CMakeFiles/baekjoon_level_solve.dir/9/task4.cpp.o: CXX_COMPILER__baekjoon_level_solve_unscanned_Debug /Users/miring49/CLionProjects/baekjoon-level-solve/9/task4.cpp || cmake_object_order_depends_target_baekjoon_level_solve
-  DEP_FILE = CMakeFiles/baekjoon_level_solve.dir/9/task4.cpp.o.d
-  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/baekjoon_level_solve.dir
-  OBJECT_FILE_DIR = CMakeFiles/baekjoon_level_solve.dir/9
-
-build CMakeFiles/baekjoon_level_solve.dir/9/task5.cpp.o: CXX_COMPILER__baekjoon_level_solve_unscanned_Debug /Users/miring49/CLionProjects/baekjoon-level-solve/9/task5.cpp || cmake_object_order_depends_target_baekjoon_level_solve
-  DEP_FILE = CMakeFiles/baekjoon_level_solve.dir/9/task5.cpp.o.d
-  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/baekjoon_level_solve.dir
-  OBJECT_FILE_DIR = CMakeFiles/baekjoon_level_solve.dir/9
-
-build CMakeFiles/baekjoon_level_solve.dir/9/task6.cpp.o: CXX_COMPILER__baekjoon_level_solve_unscanned_Debug /Users/miring49/CLionProjects/baekjoon-level-solve/9/task6.cpp || cmake_object_order_depends_target_baekjoon_level_solve
-  DEP_FILE = CMakeFiles/baekjoon_level_solve.dir/9/task6.cpp.o.d
-  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/baekjoon_level_solve.dir
-  OBJECT_FILE_DIR = CMakeFiles/baekjoon_level_solve.dir/9
-
-build CMakeFiles/baekjoon_level_solve.dir/1~8_pass/8-6.cpp.o: CXX_COMPILER__baekjoon_level_solve_unscanned_Debug /Users/miring49/CLionProjects/baekjoon-level-solve/1~8$ pass/8-6.cpp || cmake_object_order_depends_target_baekjoon_level_solve
-  DEP_FILE = "CMakeFiles/baekjoon_level_solve.dir/1~8_pass/8-6.cpp.o.d"
-  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/baekjoon_level_solve.dir
-  OBJECT_FILE_DIR = "CMakeFiles/baekjoon_level_solve.dir/1~8_pass"
+  OBJECT_DIR = CMakeFiles/9_task1.dir
+  OBJECT_FILE_DIR = CMakeFiles/9_task1.dir/9
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target baekjoon_level_solve
+# Link build statements for EXECUTABLE target 9_task1
 
 
 #############################################
-# Link the executable baekjoon_level_solve
+# Link the executable 9_task1
 
-build baekjoon_level_solve: CXX_EXECUTABLE_LINKER__baekjoon_level_solve_Debug CMakeFiles/baekjoon_level_solve.dir/9/task1.cpp.o CMakeFiles/baekjoon_level_solve.dir/9/task2.cpp.o CMakeFiles/baekjoon_level_solve.dir/9/task3.cpp.o CMakeFiles/baekjoon_level_solve.dir/9/task4.cpp.o CMakeFiles/baekjoon_level_solve.dir/9/task5.cpp.o CMakeFiles/baekjoon_level_solve.dir/9/task6.cpp.o CMakeFiles/baekjoon_level_solve.dir/1~8_pass/8-6.cpp.o
+build 9_task1: CXX_EXECUTABLE_LINKER__9_task1_Debug CMakeFiles/9_task1.dir/9/task1.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
-  OBJECT_DIR = CMakeFiles/baekjoon_level_solve.dir
+  OBJECT_DIR = CMakeFiles/9_task1.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_FILE = baekjoon_level_solve
-  TARGET_PDB = baekjoon_level_solve.dbg
+  TARGET_FILE = 9_task1
+  TARGET_PDB = 9_task1.dbg
 
 
 #############################################
@@ -141,7 +105,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/miring49/CLionProjects/baekjoon-level-solve/cmake-build-debug
 
-build all: phony baekjoon_level_solve
+build all: phony 9_task1
 
 # =============================================================================
 # Built-in targets
