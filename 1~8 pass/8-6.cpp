@@ -28,4 +28,5 @@ int main() {
     else {
         cout << n - X + 1 << "/" << i - (n - X);
     }
+    return 0;
 }
