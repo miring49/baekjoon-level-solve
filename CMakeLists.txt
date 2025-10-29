@@ -9,4 +9,5 @@ add_executable(baekjoon_level_solve
         9/task3.cpp
         9/task4.cpp
         9/task5.cpp
-        9/task6.cpp)
+        9/task6.cpp
+        "1~8 pass/8-6.cpp")
