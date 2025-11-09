@@ -4,29 +4,20 @@ using namespace std;
 
 int main() {
     fastio;
-    int n = 1; // x += i
-    int i = 1; // i++
-    bool j = false; // 1 or n=i
+    int n = 1;
+    bool j = false;
     long int X;
     cin >> X;
-    while(true){
-        if (n >= X){
-            break;
-        }
-        if (j){
-            j = false; // 1
-        }
-        else{
-            j = true; // n
-        }
-        i++;
-        n += i;
+    while(n < X){
+        X -= n;
+        n++;
+        j = !j;
     }
     if (j){
-        cout << i - (n-X) << "/" << n-X + 1;
+        cout << X << "/" << n + 1 - X;
     }
     else {
-        cout << n - X + 1 << "/" << i - (n - X);
+        cout << n + 1 - X << "/" << X;
     }
     return 0;
 }
